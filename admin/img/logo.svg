@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1268.01 425.28">
+	<defs>
+		<style>
+			.cls-1,.cls-2,.cls-3 {
+				fill:#FFF;
+			}
+			.cls-1 {
+				stroke:#FFF;stroke-miterlimit:10;
+			}
+			.cls-2 {
+				font-size:200px;
+			}
+			.cls-2,.cls-3 {
+				font-family:TimesNewRomanPSMT, Times New Roman;
+			}
+			.cls-3 {
+				font-size:130px;
+			}
+		</style>
+
+	</defs>
+	<g id="Capa_2" data-name="Capa 2">
+		<g id="Capa_2-2" data-name="Capa 2">
+			<path class="cls-1" d="M350.43,12.28,364.25,1l1.61,67.82L453,51.5l-6.1,17.35L366.18,84.6l7.39,307.61q-8.22,16-16.46,32l-15.55-32q3.79-151.84,7.58-303.69l-71,14.46,6.18-17.32,65-13.08Q349.86,42.4,350.43,12.28Z"/>
+			<path d="M357.58,393.18q-1.18-31.08-2-62.18t-1.11-62.2c-.1-5.19-.09-10.37-.1-15.56l0-15.55,0-15.56.18-15.55c.18-10.37.37-20.74.69-31.1l.47-15.55c.22-5.18.39-10.36.66-15.54h.3c.19,5.19.27,10.37.41,15.56l.25,15.55c.16,10.37.19,20.74.22,31.1l-.06,15.55-.19,15.54-.26,15.55c-.09,5.18-.19,10.36-.19,15.54q-.08,31.1.21,62.2t.8,62.19Z"/>
+			<text class="cls-2" transform="translate(11 204.17)">Cen ro</text>
+			<text class="cls-2" transform="translate(589.18 204.71)">Familiar</text>
+			<text class="cls-2" transform="translate(0 361.99)">Cris iano</text>
+			<text class="cls-3" transform="translate(830.59 361.99)">Picacho</text>
+		</g>
+	</g>
+</svg>
